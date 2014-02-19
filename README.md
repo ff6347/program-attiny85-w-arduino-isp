@@ -12,8 +12,10 @@ To program a ATtiny 85 you need:
 - an Attiny http://www.atmel.com/devices/attiny85.aspx
 See the tutorials on how to set it up @ http://highlowtech.org/?p=1229
 
-![tiny-programmer.png](tiny-programmer.png)  
+![](fritzing-layout.png)  
+
 program ATtiny 85 with [Tiny Programmer](https://www.sparkfun.com/products/11460) 
+![tiny-programmer.png](tiny-programmer.png)  
 
 If you don't want to use your Arduino board you can get one of these Tiny Programmers. It's a lot easier then the Arduino ISP way and works also with the latest Arduino IDE version. See the [hookup Guide by sparkfun](https://learn.sparkfun.com/tutorials/tiny-avr-programmer-hookup-guide/) and the [tutorial by the high low tech group](http://highlowtech.org/?p=1801)
 
